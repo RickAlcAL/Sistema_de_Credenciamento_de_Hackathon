@@ -1,0 +1,10 @@
+Desenvolvedor, Carlos Silva, DEV1001, 28, Java
+Designer, Mariana Souza, DSG1002, 32, Figma
+Desenvolvedor, Ana Costa, DEV1003, -5, Python
+Designer, Pedro Santos, DSG1004, Trinta, Adobe XD
+Desenvolvedor, Lucas Almeida, DEV1005, 24
+Designer, Julia Ribeiro, DSG1006, 29, Sketch
+Desenvolvedor, Marcos Oliveira, DEV1007, 35, TypeScript
+Engenheiro, Sandra Lima, ENG1008, 41, C++
+Desenvolvedor, Amanda Rocha, DEV1009, 22, Go
+Designer, Roberto Alves, DSG1010, 30, Photoshop
